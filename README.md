@@ -166,6 +166,10 @@ As páginas HTML também foram validadas utilizando o W3C Validator.
 
 A aplicação foi avaliada com Lighthouse em ambiente móvel, obtendo desempenho de 100/100 na versão de produção testada.
 
+##SITE
+
+https://elieltonmartins01-blip.github.io/Orquestra-Filarmonica-Curitibana/index.html
+
 ## Autor
 
 Elielton Martins
